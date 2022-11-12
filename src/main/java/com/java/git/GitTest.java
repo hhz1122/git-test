@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("ASJIJ");
         System.out.println("aaaaasdasds");
         System.out.println("ASJIJ");
+        System.out.println("自动更新");
     }
 }
