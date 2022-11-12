@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("asdadadasdads");
         System.out.println("ASJIJ");
         System.out.println("aaaaasdasds");
+        System.out.println("ASJIJ");
     }
 }
